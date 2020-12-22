@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:all-contributors" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assests/images/Yeoh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assests/images/nus_compclub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assests/images/nus_soc_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assests/images/orbital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assests/images/shopee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_data_fetcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/git_data_fetcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lucspbkTz8WDb76O9YFVbXka9G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="" />
+      <created>1608450625860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608450625860</updated>
+      <workItem from="1608450640132" duration="13476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1158" height="211" key="GridCell.Tab.0.bottom" timestamp="1608454980215">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1158" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1608454980215" />
+    <state width="1158" height="211" key="GridCell.Tab.0.center" timestamp="1608454980214">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1158" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1608454980214" />
+    <state width="1158" height="211" key="GridCell.Tab.0.left" timestamp="1608454980213">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1158" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1608454980213" />
+    <state width="1158" height="211" key="GridCell.Tab.0.right" timestamp="1608454980214">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1158" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608454980214" />
+    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1608628501441">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1608628501441" />
+  </component>
+</project>

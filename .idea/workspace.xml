@@ -26,14 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assests/images/Yeoh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assests/images/nus_compclub.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assests/images/nus_soc_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assests/images/orbital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assests/images/shopee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_data_fetcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/git_data_fetcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact/ContactComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/ContactComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects/Projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,9 +112,9 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state width="1158" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608454980214" />
-    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1608628501441">
+    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1608633383063">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1608628501441" />
+    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1608633383063" />
   </component>
 </project>

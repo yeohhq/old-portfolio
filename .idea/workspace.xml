@@ -27,11 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_data_fetcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/git_data_fetcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/contact_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/contact_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/experience_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/experience_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/opensource/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/opensource/projects.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +57,13 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="npm.test">
+  <component name="RunManager" selected="Node.js.Projects.js">
+    <configuration name="Projects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/pages/projects/Projects.js" working-dir="$PROJECT_DIR$/src/pages/projects">
+      <method v="2" />
+    </configuration>
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -96,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Projects.js" />
         <item itemvalue="npm.test" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
@@ -113,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608450625860</updated>
       <workItem from="1608450640132" duration="13476000" />
-      <workItem from="1608634108009" duration="4896000" />
+      <workItem from="1608634108009" duration="6105000" />
     </task>
     <servers />
   </component>
@@ -136,22 +137,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="965" height="211" key="GridCell.Tab.0.bottom" timestamp="1608638684827">
+    <state x="682" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608960216298">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="965" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1608638684827" />
-    <state width="965" height="211" key="GridCell.Tab.0.center" timestamp="1608638684827">
+    <state x="682" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1608960216298" />
+    <state width="965" height="211" key="GridCell.Tab.0.bottom" timestamp="1608960082575">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="965" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1608638684827" />
-    <state width="965" height="211" key="GridCell.Tab.0.left" timestamp="1608638684826">
+    <state width="965" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1608960082575" />
+    <state width="965" height="211" key="GridCell.Tab.0.center" timestamp="1608960082574">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="965" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1608638684826" />
-    <state width="965" height="211" key="GridCell.Tab.0.right" timestamp="1608638684827">
+    <state width="965" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1608960082574" />
+    <state width="965" height="211" key="GridCell.Tab.0.left" timestamp="1608960082573">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="965" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608638684827" />
+    <state width="965" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1608960082573" />
+    <state width="965" height="211" key="GridCell.Tab.0.right" timestamp="1608960082574">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="965" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608960082574" />
     <state x="505" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1608636822161">
       <screen x="0" y="23" width="1440" height="819" />
     </state>

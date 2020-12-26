@@ -7,8 +7,7 @@ const fetch = require("node-fetch");
 var fs = require("fs");
 
 const query_pr = {
-  query: `
-	query {
+  query: `query {
 	  user(login: "${openSource.githubUserName}"){
 	    pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}){
       totalCount
@@ -39,13 +38,11 @@ const query_pr = {
       }
     }
 	}
-}
-	`,
+}`,
 };
 
 const query_issue = {
   query: `query{
-
 		user(login: "${openSource.githubUserName}") {
     issues(last: 100, orderBy: {field:CREATED_AT, direction: DESC}){
       totalCount
@@ -75,8 +72,7 @@ const query_issue = {
       }
     }
   }
-
-	}`,
+}`,
 };
 
 const query_org = {

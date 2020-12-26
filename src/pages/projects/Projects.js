@@ -40,21 +40,21 @@ class Projects extends Component {
                   {projectsHeader["description"]}
                 </p>
               </div>
+                <Button
+                    text={"View my GitHub"}
+                    className="project-button"
+                    href="https://github.com/yeohhq"
+                    newTab={true}
+                    theme={theme}
+                />
             </div>
           </Fade>
         </div>
-        <div className="repo-cards-div-main">
-          {ProjectsData.data.map((repo) => {
-            return <GithubRepoCard repo={repo} theme={theme} />;
-          })}
-        </div>
-        <Button
-          text={"More Projects"}
-          className="project-button"
-          href="https://github.com/yeohhq"
-          newTab={true}
-          theme={theme}
-        />
+        {/*<div className="repo-cards-div-main">*/}
+        {/*  {ProjectsData.data.map((repo) => {*/}
+        {/*    return <GithubRepoCard repo={repo} theme={theme} />;*/}
+        {/*  })}*/}
+        {/*</div>*/}
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
       </div>

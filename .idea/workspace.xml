@@ -28,6 +28,10 @@
     <list default="true" id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git_data_fetcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/git_data_fetcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/contact_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/contact_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/experience_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/experience_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,45 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608450625860</updated>
       <workItem from="1608450640132" duration="13476000" />
-      <workItem from="1608634108009" duration="1816000" />
+      <workItem from="1608634108009" duration="4896000" />
     </task>
     <servers />
   </component>
@@ -93,25 +136,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1158" height="211" key="GridCell.Tab.0.bottom" timestamp="1608454980215">
+    <state width="965" height="211" key="GridCell.Tab.0.bottom" timestamp="1608638684827">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1158" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1608454980215" />
-    <state width="1158" height="211" key="GridCell.Tab.0.center" timestamp="1608454980214">
+    <state width="965" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1608638684827" />
+    <state width="965" height="211" key="GridCell.Tab.0.center" timestamp="1608638684827">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1158" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1608454980214" />
-    <state width="1158" height="211" key="GridCell.Tab.0.left" timestamp="1608454980213">
+    <state width="965" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1608638684827" />
+    <state width="965" height="211" key="GridCell.Tab.0.left" timestamp="1608638684826">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1158" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1608454980213" />
-    <state width="1158" height="211" key="GridCell.Tab.0.right" timestamp="1608454980214">
+    <state width="965" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1608638684826" />
+    <state width="965" height="211" key="GridCell.Tab.0.right" timestamp="1608638684827">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state width="1158" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608454980214" />
-    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1608633383063">
+    <state width="965" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1608638684827" />
+    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1608636822161">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1608633383063" />
+    <state x="505" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1608636822161" />
   </component>
 </project>

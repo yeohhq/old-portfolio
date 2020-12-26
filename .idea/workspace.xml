@@ -25,7 +25,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="" />
+    <list default="true" id="ebdee751-25bb-45e0-9ccc-ab2a72f6942c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/opensource/pull_requests.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/opensource/pull_requests.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608450625860</updated>
       <workItem from="1608450640132" duration="13476000" />
-      <workItem from="1608634108009" duration="6608000" />
+      <workItem from="1608634108009" duration="7646000" />
     </task>
     <servers />
   </component>
